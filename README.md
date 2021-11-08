@@ -1,2 +1,2 @@
-# Basic Python Project
+# Alarm clock with Python
 Alarm Clock
